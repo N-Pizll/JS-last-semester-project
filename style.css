@@ -1,11 +1,18 @@
 * a {
-    text-decoration: none;
+  text-decoration: none;
 }
 #svgli {
-    width: 200px;
-    height: 100%;
+  padding: 0px 10px;
+  width: 200px;
+  height: 100%;
 }
 #total {
-    width: 30px;
-    height: 30px;
+  padding: 0px 10px;
+  width: 30px;
+  height: 30px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
